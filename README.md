@@ -1,1 +1,1 @@
-# codes
+# Discord Chat GPT Integration
